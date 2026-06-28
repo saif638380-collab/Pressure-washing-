@@ -1,0 +1,6 @@
+{
+  "name": "VerdantWash",
+  "description": "Professional eco-friendly pressure washing services specializing in restoring homes, driveways, decks, and roofs with pristine, green, sparkling water-colored results.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
